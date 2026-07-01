@@ -1,0 +1,5 @@
+s1= input("Enter a string:  ")
+n= s1.split()
+print(n)
+t= len(n)
+print("The number of words are : ",t )

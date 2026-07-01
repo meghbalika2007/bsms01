@@ -1,0 +1,6 @@
+myfile=open (r"E:\poem.txt","w")
+str= myfile.write(30)
+print(str)
+str2=myfile.write(50)
+print(str2)
+my.close()
